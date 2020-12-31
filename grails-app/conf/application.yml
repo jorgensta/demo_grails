@@ -13,7 +13,7 @@ grails:
             events: false
 server:
     port: 8000
-    
+
 info:
     app:
         name: '@info.app.name@'
