@@ -12,7 +12,7 @@ grails:
             # Disabled by default for performance reasons
             events: false
 server:
-    port: 8000
+    port: 9081
 
 info:
     app:
